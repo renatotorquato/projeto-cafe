@@ -1,3 +1,5 @@
+import img from '../icons/icon.jpg'
+
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -15,8 +17,9 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
+          <img src={img} alt="Icon" width={50} height={50} />
           <a className='navbar-brand page-scroll' href='#page-top'>
-            React Landing Page
+            Ifraim
           </a>{' '}
         </div>
 
@@ -27,37 +30,37 @@ export const Navigation = (props) => {
           <ul className='nav navbar-nav navbar-right'>
             <li>
               <a href='#features' className='page-scroll'>
-                Features
+                Qualidades
               </a>
             </li>
             <li>
               <a href='#about' className='page-scroll'>
-                About
+               Sobre
               </a>
             </li>
             <li>
               <a href='#services' className='page-scroll'>
-                Services
+                Produtos
               </a>
             </li>
             <li>
               <a href='#portfolio' className='page-scroll'>
-                Gallery
+                Galeria
               </a>
             </li>
             <li>
               <a href='#testimonials' className='page-scroll'>
-                Testimonials
+                Sensações
               </a>
             </li>
             <li>
               <a href='#team' className='page-scroll'>
-                Team
+                Equipe
               </a>
             </li>
             <li>
               <a href='#contact' className='page-scroll'>
-                Contact
+                Contato
               </a>
             </li>
           </ul>
