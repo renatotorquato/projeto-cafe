@@ -19,7 +19,7 @@ export const Navigation = (props) => {
           </button>
           <img src={img} alt="Icon" width={50} height={50} />
           <a className='navbar-brand page-scroll' href='#page-top'>
-            Ifraim
+            Ibraim
           </a>{' '}
         </div>
 

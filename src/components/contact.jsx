@@ -96,7 +96,7 @@ export const Contact = (props) => {
           </div>
           <div className='col-md-3 col-md-offset-1 contact-info'>
             <div className='contact-item'>
-              <h3>Info Contato</h3>
+              <h3>Informações para Contato</h3>
               <p>
                 <span>
                   <i className='fa fa-map-marker'></i> Endereço
