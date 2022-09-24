@@ -1,7 +1,6 @@
 
 
-
-### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
+### <a href="https://ibraimcafe.vercel.app">LIVE DEMO</a> 
 
 ## Description
 This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
@@ -18,9 +17,11 @@ Change the data in the ```data.json``` file as well as add any images to ```publ
 You can also change styles by modifying the ```public/css``` files.
 
 
+![capa-cafe](https://user-images.githubusercontent.com/73807177/192113104-56f0328a-0546-4ed9-826d-c8b400ebfa41.jpg)
+
 
 ## Credits
 ##### Free CSS 
 <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
 
-##### Issaaf kattan
+##### Renato Torquato
