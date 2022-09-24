@@ -161,24 +161,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-trophy",
+      "title": "Pontuação 89,25",
+      "text": "Um café especial acima de 85 pontos já terá grandes atributos tanto de aroma como paladar, capazes de atrair compradores do mundo todo. Não apresenta defeitos e seus sabores são resultados de características especiais e da composição do solo em que foram produzidos."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-info",
+      "title": "Altitude",
+      "text": "Os cafés especiais são plantados em altas altitudes, de preferência, acima de 1000 metros. Estamos há 1280m"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-coffee",
+      "title": "Tipo de café",
+      "text": "100% Arábica - Torra Média."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Sensorial",
+      "text": "Amanteigado, caramelo, açúcar mascavo, mel, rapadura, floral, pêssego, caramelo, Duo /caramelo/mel/melaço o /cítrico /acidez prazerosa. "
     }
   ]
 }
