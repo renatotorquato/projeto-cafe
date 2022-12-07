@@ -18,6 +18,10 @@ export const Image = ({ title, largeImage, smallImage }) => {
           />{' '}
         </a>{' '}
       </div>
+      <a className="whatapp-link" href="https://web.whatsapp.com/send?phone=55984426076" target="_blank" rel="noreferrer">
+      <i className="fa fa-whatsapp"></i>
+      </a>
+      
     </div>
   )
 }
